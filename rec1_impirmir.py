@@ -1,4 +1,4 @@
-# ========== Iprimir los numeros del 1 al 10 ==========
+# ========== Iprimir los numeros del 1 al 10 ========== #
 
 # EJEMPLO ITERATIVO
 for i in range(1, 11):
@@ -12,7 +12,7 @@ def mostrar_recursivo(n):
 
 mostrar_recursivo(10)
 
-# ========= Imprimir los numeros desde 10 al 1 ==========
+# ========= Imprimir los numeros desde 10 al 1 ========== #
 
 # EJEMPLO ITERATIVO
 for i in range(10, 0, -1):

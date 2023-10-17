@@ -2,7 +2,7 @@
 
 numeros = [1,2,3,4,5]
 
-# EJEMPLO ITERATIVO
+# =========== EJEMPLO ITERATIVO =========== #
 def suma_lista_iterativa(lista):
     suma = 0
     for numero in lista:
@@ -11,7 +11,7 @@ def suma_lista_iterativa(lista):
 
 print(suma_lista_iterativa(numeros))
 
-# EJEMPLO RECURSIVO
+# =========== EJEMPLO RECURSIVO =========== #
 def suma_lista_recursiva(lista, indice = 0):
     if indice == len(lista) - 1:
         return lista[indice]

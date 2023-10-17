@@ -1,4 +1,4 @@
-# 1.Sumar los numeros naturales hasta N (se lo damos nosotros) de forma recursiva.
+# ========== 1.Sumar los numeros naturales hasta N (se lo damos nosotros) de forma recursiva. ========== #
 
 #EJEMPLO CON FOR:
 def suma_iterativa(n):
@@ -17,7 +17,7 @@ def suma_recursiva(n):
     
 print(suma_recursiva(5))
 
-# 2.Factorial de un numero. 
+# ========== 2.Factorial de un numero. ========== # 
 
 #EJEMPLO CON FOR:
 def factorial_iterativo(n):
