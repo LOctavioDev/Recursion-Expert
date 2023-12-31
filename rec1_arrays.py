@@ -19,3 +19,4 @@ def suma_lista_recursiva(lista, indice = 0):
         return lista[indice] + suma_lista_recursiva(lista, indice + 1)
     
 print(suma_lista_recursiva(numeros))
+#Esta es una prueba
